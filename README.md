@@ -53,5 +53,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact the project owner at your@email.com.
+If you have any questions or suggestions, please feel free to contact the project owner at Jaywantadhau16003@gmail.com.
+or Connect on LinkdIn through www.linkedin.com/in/
+jaywant-adhau-12b8bb24b
+
 
