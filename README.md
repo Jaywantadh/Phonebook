@@ -42,9 +42,6 @@ Phonebook Directory is a simple command-line program that allows users to manage
 
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
